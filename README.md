@@ -6,5 +6,6 @@ Dataset source:
 Future plans: 
 - Find the way to add other metrics like inflow/outflow and values based in sentiment analysis based on relevant news.
 
+***Disclaimer**: These predictions aren't a investment advice, just a personal project made out of curiosity and to see how much it differs from the actual price development and how other metrics could influence the price.*
 *Format: Jupyter notebook for Google Colab.*
   
